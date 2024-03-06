@@ -7,6 +7,8 @@ Grant application for Octant PGF
 
 **Describe your project and why you classify it as a Public Good \***
 
+Vyper is a contract-oriented, pythonic programming language that targets the Ethereum Virtual Machine (EVM). There are over 5000 Vyper contracts deployed across a dozen chains, securing over $2 billion of value. Vyper is free, open-source under a permissive license and usable on all EVM-compatible chains. 
+
 **What are your main project funding sources?**
 
 - [x] Grants funding
@@ -40,7 +42,12 @@ Grant application for Octant PGF
 
 **Share your project roadmap:**
 
-
+- 
+- Further develop the Vyper intermediary language (Venom) to give developers ever more optimized bytecode and reduce contracts' gas usage.
+- Continue to strengthen the security of the language through close collaboration with auditors, bug bounty programs, auditing competitions and providing better Vyper support to security tools such Slither or Echidna.
+- Improve developer UX through tools such as titanoboa (https://github.com/vyperlang/titanoboa) or the Vyper Jupyter Lab environment (https://try.vyperlang.org/) to facilitate thorough testing and quick prototyping
+- Promote Vyper adoption and onboard new developers by participating in major blockchain conferences, organizing workshops, outreach programs and producing more educational resources. 
+  
 **What milestones have you achieved? \***
 
 
@@ -78,6 +85,8 @@ https://docs.vyperlang.org/en/stable/
 **Team Social Accounts:**
 
 https://twitter.com/big_tech_sux
+
+https://twitter.com/harkal
 
 https://twitter.com/0xz80
 
