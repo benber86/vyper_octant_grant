@@ -67,8 +67,8 @@ Vyper is a contract-oriented, pythonic programming language that targets the Eth
 
 **Tell us more about your team: \***
 
-Make sure to include background and roles! Team work makes the dream work!
-Social Credibility (development progress, awards, notable GitHub commits, referrals)
+Lead Developer: Charles Cooper (https://github.com/charles-cooper)
+Contributors: fubuloubu (yearn, ApeWorX, https://github.com/fubuloubu), tserg (https://github.com/tserg), Harry Kalogirou (https://github.com/harkal), Pascal Caversaccio (https://github.com/pcaversaccio), Daniel Schiavini (https://github.com/DanielSchiavini)
 
 **Why's your project important?**
 
@@ -78,7 +78,9 @@ By offering a Python-like syntax and integrating with Python tooling such as Jup
 
 **What's the impact you've had, and what can funders expect?**
 
-
+The Vyper team has been consistantly delivering new features and allowing protocols such as Curve Finance to deploy larger, more gas-efficient contracts and to create complex factory patterns. 
+Vyper's opinionated approach to language design is contributing to making smart contracts more readable and secure.
+Funders can expect the team to continue to deliver major technical improvements to the compiler, better tooling and more outreach activities to promote the language.
 
 **What's your project's Twitter handle?**
 
@@ -99,6 +101,10 @@ https://docs.vyperlang.org/en/stable/
 **Team Social Accounts:**
 
 https://twitter.com/big_tech_sux
+
+https://twitter.com/fubuloubu
+
+https://twitter.com/_tserg
 
 https://twitter.com/harkal
 
