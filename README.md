@@ -42,7 +42,7 @@ Vyper is a contract-oriented, pythonic programming language that targets the Eth
 
 **Share your project roadmap:**
 
-- 
+- Officially release the major 0.4.0 update that will include modules, a new import system, a new IR and many other features to improve developer experience.
 - Further develop the Vyper intermediary language (Venom) to give developers ever more optimized bytecode and reduce contracts' gas usage.
 - Continue to strengthen the security of the language through close collaboration with auditors, bug bounty programs, auditing competitions and providing better Vyper support to security tools such Slither or Echidna.
 - Improve developer UX through tools such as titanoboa (https://github.com/vyperlang/titanoboa) or the Vyper Jupyter Lab environment (https://try.vyperlang.org/) to facilitate thorough testing and quick prototyping
@@ -50,8 +50,16 @@ Vyper is a contract-oriented, pythonic programming language that targets the Eth
   
 **What milestones have you achieved? \***
 
+- Vyper is now the second most widely used smart contract programming language.
+- The tooling developed by the team around Vyper has constantly improved, with projects like titanoboa now offering fuzzing, code coverage and gas profiling with faster execution speed than Foundry.
+- Optimizations to the Vyper compiler consistently reduce gas costs and produce binaries that are on average 50% smaller compared to Solidity.
+- Following the discovery of a vulnerability in 2023, the team organized bug bounty programs, security competitions and worked with auditors to thoroughly review the codebase.
+
 
 **Tell us more about milestones you'd like to achieve \***
+
+- The official release of the 0.4.0 version of Vyper will be a major milestone for the language, offering more modularity, security and efficiency to users.
+- We hope to significantly increase the number of developers and protocols adopting Vyper and eventually make it the go-to smart contract programming language on the EVM.
 
 
 **Funding Goal and Budget: \***
@@ -64,7 +72,13 @@ Social Credibility (development progress, awards, notable GitHub commits, referr
 
 **Why's your project important?**
 
+Vyper is the second most popular smart contract programming languages today, used by major protocols such as Curve Finance, Lido and Yearn and securing over $2 billion dollars of TVL. 
+With faster compilation times and better code output than its major competitors, as well excellent and ever-improving tooling, Vyper is quickly establishing itself as the preferred choice for developers prioritizing security and efficiency in their smart contract development.
+By offering a Python-like syntax and integrating with Python tooling such as Jupyter, pip, and pytest, Vyper makes it easy for developers of the 2nd most popular programming language in the world (Python) to transition to web3. 
+
 **What's the impact you've had, and what can funders expect?**
+
+
 
 **What's your project's Twitter handle?**
 
